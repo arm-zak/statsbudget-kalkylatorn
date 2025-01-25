@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "Rikets styrelse",
+    "value": 20130981,
+    "items": [
+      {
+        "name": "1 Statschefen",
+        "value": 190463,
+        "items": [
+          {
+            "name": "1 Kungliga hov- och slottsstaten",
+            "value": 190463
+          }
+        ]
+      },
+      {
+        "name": "2 Riksdagen och dess myndigheter",
+        "value": 3079182,
+        "items": [
+          {
+            "name": "1 Riksdagens ledamöter och partier m.m.",
+            "value": 1114343
+          },
+          {
+            "name": "2 Riksdagens förvaltningsanslag",
+            "value": 1100317
+          },
+          {
+            "name": "3 Riksdagens fastighetsanslag",
+            "value": 340000
+          },
+          {
+            "name": "4 Riksdagens ombudsmän (JO)",
+            "value": 133625
+          },
+          {
+            "name": "5 Riksrevisionen",
+            "value": 390897
+          }
+        ]
+      },
+      {
+        "name": "3 Sametinget och samepolitiken",
+        "value": 70721,
+        "items": [
+          {
+            "name": "1 Sametinget",
+            "value": 70721
+          }
+        ]
+      },
+      {
+        "name": "4 Regeringskansliet m.m.",
+        "value": 10431470,
+        "items": [
+          {
+            "name": "1 Regeringskansliet m.m.",
+            "value": 10431470
+          }
+        ]
+      },
+      {
+        "name": "5 Länsstyrelserna",
+        "value": 4180845,
+        "items": [
+          {
+            "name": "1 Länsstyrelserna m.m.",
+            "value": 4180845
+          }
+        ]
+      },
+      {
+        "name": "6 Demokratipolitik och mänskliga rättigheter",
+        "value": 907492,
+        "items": [
+          {
+            "name": "1 Allmänna val och demokrati",
+            "value": 198640
+          },
+          {
+            "name": "2 Justitiekanslern",
+            "value": 95967
+          },
+          {
+            "name": "3 Integritetsskyddsmyndigheten",
+            "value": 219119
+          },
+          {
+            "name": "4 Valmyndigheten",
+            "value": 170715
+          },
+          {
+            "name": "5 Stöd till politiska partier",
+            "value": 169200
+          },
+          {
+            "name": "6 Institutet för mänskliga rättigheter",
+            "value": 53851
+          }
+        ]
+      },
+      {
+        "name": "7 Nationella minoriteter",
+        "value": 157771,
+        "items": [
+          {
+            "name": "1 Åtgärder för nationella minoriteter",
+            "value": 157771
+          }
+        ]
+      },
+      {
+        "name": "8 Medier",
+        "value": 1079301,
+        "items": [
+          {
+            "name": "1 Mediestöd",
+            "value": 991119
+          },
+          {
+            "name": "2 Mediemyndigheten",
+            "value": 88182
+          }
+        ]
+      },
+      {
+        "name": "9 Sieps samt insatser för att stärka delaktigheten i EU-arbetet",
+        "value": 33736,
+        "items": [
+          {
+            "name": "1 Svenska institutet för europapolitiska studier samt EU-information",
+            "value": 33736
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samhällsekonomi och finansförvaltning",
+    "value": 21734078,
+    "items": [
+      {
+        "name": "1 Statskontoret",
+        "value": 113142
+      },
+      {
+        "name": "2 Kammarkollegiet",
+        "value": 165671
+      },
+      {
+        "name": "3 Finansinspektionens avgifter till EU:s tillsynsmyndigheter",
+        "value": 25550
+      },
+      {
+        "name": "4 Arbetsgivarpolitiska frågor",
+        "value": 2443
+      },
+      {
+        "name": "5 Statliga tjänstepensioner m.m.",
+        "value": 17295000
+      },
+      {
+        "name": "6 Finanspolitiska rådet",
+        "value": 12133
+      },
+      {
+        "name": "7 Konjunkturinstitutet",
+        "value": 74837
+      },
+      {
+        "name": "8 Ekonomistyrningsverket",
+        "value": 224363
+      },
+      {
+        "name": "9 Statistiska centralbyrån",
+        "value": 687238
+      },
+      {
+        "name": "10 Bidragsfastigheter",
+        "value": 440000
+      },
+      {
+        "name": "11 Finansinspektionen",
+        "value": 846586
+      },
+      {
+        "name": "12 Riksgäldskontoret",
+        "value": 392878
+      },
+      {
+        "name": "13 Bokföringsnämnden",
+        "value": 14752
+      },
+      {
+        "name": "14 Vissa garanti- och medlemsavgifter",
+        "value": 170458
+      },
+      {
+        "name": "15 Statens servicecenter",
+        "value": 937147
+      },
+      {
+        "name": "16 Finansmarknadsforskning",
+        "value": 30753
+      },
+      {
+        "name": "17 Upphandlingsmyndigheten",
+        "value": 103508
+      },
+      {
+        "name": "18 Utbetalningsmyndigheten",
+        "value": 197619
+      }
+    ]
+  },
+  {
+    "name": "Skatt, tull och exekution",
+    "value": 14812398,
+    "items": [
+      {
+        "name": "1 Skatteverket",
+        "value": 9184087
+      },
+      {
+        "name": "2 Tullverket",
+        "value": 3174486
+      },
+      {
+        "name": "3 Kronofogdemyndigheten",
+        "value": 2453825
+      }
+    ]
+  },
+  {
+    "name": "Rättsväsendet",
+    "value": 86791679,
+    "items": [
+      {
+        "name": "1 Polismyndigheten",
+        "value": 45211735
+      },
+      {
+        "name": "2 Säkerhetspolisen",
+        "value": 2757388
+      },
+      {
+        "name": "3 Åklagarmyndigheten",
+        "value": 2788478
+      },
+      {
+        "name": "4 Ekobrottsmyndigheten",
+        "value": 1139882
+      },
+      {
+        "name": "5 Sveriges Domstolar",
+        "value": 8178880
+      },
+      {
+        "name": "6 Kriminalvården",
+        "value": 20432298
+      },
+      {
+        "name": "7 Brottsförebyggande rådet",
+        "value": 308695
+      },
+      {
+        "name": "8 Rättsmedicinalverket",
+        "value": 664682
+      },
+      {
+        "name": "9 Brottsoffermyndigheten",
+        "value": 62700
+      },
+      {
+        "name": "10 Ersättning för skador på grund av brott",
+        "value": 221953
+      },
+      {
+        "name": "11 Rättsliga biträden m.m.",
+        "value": 4305857
+      },
+      {
+        "name": "12 Kostnader för vissa skaderegleringar m.m.",
+        "value": 90987
+      },
+      {
+        "name": "13 Avgifter till vissa internationella sammanslutningar",
+        "value": 19174
+      },
+      {
+        "name": "14 Bidrag till brottsförebyggande arbete",
+        "value": 138157
+      },
+      {
+        "name": "15 Säkerhets- och integritetsskyddsnämnden",
+        "value": 42660
+      },
+      {
+        "name": "16 Domarnämnden",
+        "value": 12153
+      },
+      {
+        "name": "17 Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",
+        "value": 416000
+      }
+    ]
+  },
+  {
+    "name": "Internationell samverkan",
+    "value": 2278371,
+    "items": [
+      {
+        "name": "1 Avgifter till internationella organisationer",
+        "value": 1449774
+      },
+      {
+        "name": "2 Freds- och säkerhetsfrämjande verksamhet",
+        "value": 185456
+      },
+      {
+        "name": "3 Inspektionen för strategiska produkter",
+        "value": 163083
+      },
+      {
+        "name": "4 Svenska institutet",
+        "value": 136287
+      },
+      {
+        "name": "5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+        "value": 343771
+      }
+    ]
+  },
+  {
+    "name": "Försvar och samhällets krisberedskap",
+    "value": 169680344,
+    "items": [
+      {
+        "name": "1 Försvar",
+        "value": 160914814,
+        "items": [
+          {
+            "name": "1 Förbandsverksamhet och beredskap",
+            "value": 66245663
+          },
+          {
+            "name": "2 Försvarsmaktens insatser internationellt",
+            "value": 2799759
+          },
+          {
+            "name": "3 Anskaffning av materiel och anläggningar",
+            "value": 59558871
+          },
+          {
+            "name": "4 Forskning och teknikutveckling",
+            "value": 1251905
+          },
+          {
+            "name": "5 Statens inspektion för försvarsunderrättelseverksamheten",
+            "value": 15522
+          },
+          {
+            "name": "6 Totalförsvarets plikt- och prövningsverk",
+            "value": 450310
+          },
+          {
+            "name": "7 Officersutbildning m.m.",
+            "value": 351266
+          },
+          {
+            "name": "8 Försvarets radioanstalt",
+            "value": 2859348
+          },
+          {
+            "name": "9 Totalförsvarets forskningsinstitut",
+            "value": 572134
+          },
+          {
+            "name": "10 Nämnder m.m.",
+            "value": 8786
+          },
+          {
+            "name": "11 Försvarets materielverk",
+            "value": 3963946
+          },
+          {
+            "name": "12 Försvarsunderrättelsedomstolen",
+            "value": 11786
+          },
+          {
+            "name": "13 Myndigheten för Totalförsvarsanalys",
+            "value": 85518
+          },
+          {
+            "name": "14 Stöd till Ukraina",
+            "value": 22740000
+          }
+        ]
+      },
+      {
+        "name": "2 Samhällets krisberedskap",
+        "value": 8182322,
+        "items": [
+          {
+            "name": "1 Kustbevakningen",
+            "value": 1890822
+          },
+          {
+            "name": "2 Förebyggande åtgärder mot jordskred och andra naturolyckor",
+            "value": 506850
+          },
+          {
+            "name": "3 Ersättning för räddningstjänst m.m.",
+            "value": 27580
+          },
+          {
+            "name": "4 Krisberedskap",
+            "value": 2391608
+          },
+          {
+            "name": "5 Ersättning till SOS Alarm Sverige AB för alarmeringstjänst enligt avtal",
+            "value": 444671
+          },
+          {
+            "name": "6 Myndigheten för samhällsskydd och beredskap",
+            "value": 2030260
+          },
+          {
+            "name": "7 Statens haverikommission",
+            "value": 65802
+          },
+          {
+            "name": "8 Myndigheten för psykologiskt försvar",
+            "value": 156248
+          },
+          {
+            "name": "9 Rakel Generation 2",
+            "value": 668481
+          }
+        ]
+      },
+      {
+        "name": "3 Strålsäkerhet",
+        "value": 583208,
+        "items": [
+          {
+            "name": "1 Strålsäkerhetsmyndigheten",
+            "value": 583208
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Utrikes frågor",
+    "value": 44499844,
+    "items": [
+      {
+        "name": "1 Internationellt utvecklingssamarbete",
+        "value": 44499844,
+        "items": [
+          {
+            "name": "1 Biståndsverksamhet",
+            "value": 42420943
+          },
+          {
+            "name": "2 Styrelsen för internationellt utvecklingssamarbete (Sida)",
+            "value": 1772698
+          },
+          {
+            "name": "3 Nordiska Afrikainstitutet",
+            "value": 18142
+          },
+          {
+            "name": "4 Folke Bernadotteakademin",
+            "value": 213219
+          },
+          {
+            "name": "5 Riksrevisionen: Internationellt utvecklingssamarbete",
+            "value": 50000
+          },
+          {
+            "name": "6 Utvärdering av internationellt bistånd",
+            "value": 24842
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Migration",
+    "value": 11937532,
+    "items": [
+      {
+        "name": "1 Migrationsverket",
+        "value": 5298736
+      },
+      {
+        "name": "2 Ersättningar och bostadskostnader",
+        "value": 4133000
+      },
+      {
+        "name": "3 Migrationspolitiska åtgärder",
+        "value": 280013
+      },
+      {
+        "name": "4 Domstolsprövning i utlänningsmål",
+        "value": 915179
+      },
+      {
+        "name": "5 Rättsliga biträden m.m. vid domstolsprövning i utlänningsmål",
+        "value": 170800
+      },
+      {
+        "name": "6 Offentligt biträde i utlänningsärenden",
+        "value": 264602
+      },
+      {
+        "name": "7 Utresor för avvisade och utvisade",
+        "value": 325202
+      },
+      {
+        "name": "8 Från EU-budgeten finansierade insatser för asylsökande och flyktingar",
+        "value": 550000
+      }
+    ]
+  },
+  {
+    "name": "Hälsovård, sjukvård och social omsorg",
+    "value": 120254872,
+    "items": [
+      {
+        "name": "1 Hälso- och sjukvårdspolitik",
+        "value": 76976400,
+        "items": [
+          {
+            "name": "1 Socialstyrelsen",
+            "value": 880788
+          },
+          {
+            "name": "2 Statens beredning för medicinsk och social utvärdering",
+            "value": 97461
+          },
+          {
+            "name": "3 Tandvårds- och läkemedelsförmånsverket",
+            "value": 199704
+          },
+          {
+            "name": "4 Tandvårdsförmåner",
+            "value": 8479684
+          },
+          {
+            "name": "5 Bidrag för läkemedelsförmånerna",
+            "value": 41087000
+          },
+          {
+            "name": "6 Bidrag till folkhälsa och sjukvård",
+            "value": 11201986
+          },
+          {
+            "name": "7 Sjukvård i internationella förhållanden",
+            "value": 779592
+          },
+          {
+            "name": "8 Bidrag till psykiatri",
+            "value": 3620393
+          },
+          {
+            "name": "9 Läkemedelsverket",
+            "value": 203110
+          },
+          {
+            "name": "10 E-hälsomyndigheten",
+            "value": 264925
+          },
+          {
+            "name": "11 Prestationsbundna insatser för att korta vårdköerna",
+            "value": 7480000
+          },
+          {
+            "name": "12 Inspektionen för vård och omsorg",
+            "value": 904853
+          },
+          {
+            "name": "13 Myndigheten för vård- och omsorgsanalys",
+            "value": 44404
+          },
+          {
+            "name": "14 Civilt försvar inom hälso- och sjukvård",
+            "value": 1732500
+          }
+        ]
+      },
+      {
+        "name": "2 Folkhälsopolitik",
+        "value": 1841181,
+        "items": [
+          {
+            "name": "1 Folkhälsomyndigheten",
+            "value": 561718
+          },
+          {
+            "name": "2 Insatser för vaccinberedskap",
+            "value": 120500
+          },
+          {
+            "name": "3 Bidrag till WHO",
+            "value": 46665
+          },
+          {
+            "name": "4 Insatser mot hiv/aids och andra smittsamma sjukdomar",
+            "value": 127502
+          },
+          {
+            "name": "5 Åtgärder avseende alkohol, narkotika, dopning, tobak samt spel",
+            "value": 92796
+          },
+          {
+            "name": "6 Stöd till främjande av en aktiv och meningsfull fritid för barn och unga",
+            "value": 792000
+          },
+          {
+            "name": "7 Stöd för att förebygga ohälsa och ensamhet bland äldre",
+            "value": 100000
+          }
+        ]
+      },
+      {
+        "name": "3 Funktionshinderspolitik",
+        "value": 280183,
+        "items": [
+          {
+            "name": "1 Myndigheten för delaktighet",
+            "value": 71441
+          },
+          {
+            "name": "2 Bidrag till funktionshindersorganisationer",
+            "value": 208742
+          }
+        ]
+      },
+      {
+        "name": "4 Politik för sociala tjänster",
+        "value": 40106946,
+        "items": [
+          {
+            "name": "1 Myndigheten för familjerätt och föräldraskapsstöd",
+            "value": 41891
+          },
+          {
+            "name": "2 Vissa statsbidrag inom funktionshindersområdet",
+            "value": 819714
+          },
+          {
+            "name": "3 Bilstöd till personer med funktionsnedsättning",
+            "value": 263237
+          },
+          {
+            "name": "4 Kostnader för statlig assistansersättning",
+            "value": 26922874
+          },
+          {
+            "name": "5 Stimulansbidrag och åtgärder inom äldreområdet",
+            "value": 6623990
+          },
+          {
+            "name": "6 Statens institutionsstyrelse",
+            "value": 2391439
+          },
+          {
+            "name": "7 Bidrag till utveckling av socialt arbete m.m.",
+            "value": 3043801
+          }
+        ]
+      },
+      {
+        "name": "5 Barnrättspolitik",
+        "value": 110721,
+        "items": [
+          {
+            "name": "1 Barnombudsmannen",
+            "value": 28460
+          },
+          {
+            "name": "2 Barnets rättigheter",
+            "value": 82261
+          }
+        ]
+      },
+      {
+        "name": "6 Forskningspolitik",
+        "value": 939441,
+        "items": [
+          {
+            "name": "1 Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning",
+            "value": 57938
+          },
+          {
+            "name": "2 Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning",
+            "value": 881503
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning",
+    "value": 123058927,
+    "items": [
+      {
+        "name": "1 Ersättning vid sjukdom och funktionsnedsättning",
+        "value": 112230578,
+        "items": [
+          {
+            "name": "1 Sjukpenning och rehabilitering m.m.",
+            "value": 53898438
+          },
+          {
+            "name": "2 Aktivitets- och sjukersättningar m.m.",
+            "value": 51651800
+          },
+          {
+            "name": "3 Merkostnadsersättning och handikappersättning",
+            "value": 1471000
+          },
+          {
+            "name": "4 Arbetsskadeersättningar m.m.",
+            "value": 2322000
+          },
+          {
+            "name": "5 Ersättning inom det statliga personskadeskyddet",
+            "value": 36988
+          },
+          {
+            "name": "6 Bidrag för sjukskrivningsprocessen",
+            "value": 1436700
+          },
+          {
+            "name": "7 Ersättning för höga sjuklönekostnader",
+            "value": 1413652
+          }
+        ]
+      },
+      {
+        "name": "2 Myndigheter",
+        "value": 10828349,
+        "items": [
+          {
+            "name": "1 Försäkringskassan",
+            "value": 10750646
+          },
+          {
+            "name": "2 Inspektionen för socialförsäkringen",
+            "value": 77703
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ekonomisk trygghet vid ålderdom",
+    "value": 62890360,
+    "items": [
+      {
+        "name": "1 Ersättning vid ålderdom",
+        "value": 62059000,
+        "items": [
+          {
+            "name": "1 Garantipension till ålderspension",
+            "value": 32273200
+          },
+          {
+            "name": "2 Efterlevandepensioner till vuxna",
+            "value": 7753500
+          },
+          {
+            "name": "3 Bostadstillägg till pensionärer",
+            "value": 14409300
+          },
+          {
+            "name": "4 Äldreförsörjningsstöd",
+            "value": 1530000
+          },
+          {
+            "name": "5 Inkomstpensionstillägg",
+            "value": 6093000
+          }
+        ]
+      },
+      {
+        "name": "2 Myndigheter",
+        "value": 831360,
+        "items": [
+          {
+            "name": "1 Pensionsmyndigheten",
+            "value": 831360
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ekonomisk trygghet för familjer och barn",
+    "value": 104531449,
+    "items": [
+      {
+        "name": "1 Barn- och familjepolitik",
+        "value": 104531449,
+        "items": [
+          {
+            "name": "1 Barnbidrag",
+            "value": 32048147
+          },
+          {
+            "name": "2 Föräldraförsäkring",
+            "value": 50765281
+          },
+          {
+            "name": "3 Underhållsstöd",
+            "value": 2753953
+          },
+          {
+            "name": "4 Adoptionsbidrag",
+            "value": 14784
+          },
+          {
+            "name": "5 Barnpension och efterlevandestöd",
+            "value": 1123300
+          },
+          {
+            "name": "6 Omvårdnadsbidrag och vårdbidrag",
+            "value": 6637908
+          },
+          {
+            "name": "7 Pensionsrätt för barnår",
+            "value": 7747900
+          },
+          {
+            "name": "8 Bostadsbidrag",
+            "value": 3440176
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Integration och jämställdhet",
+    "value": 6265767,
+    "items": [
+      {
+        "name": "1 Integration",
+        "value": 5063550,
+        "items": [
+          {
+            "name": "1 Integrationsåtgärder",
+            "value": 98925
+          },
+          {
+            "name": "2 Kommunersättningar vid flyktingmottagande",
+            "value": 4964625
+          }
+        ]
+      },
+      {
+        "name": "2 Diskriminering",
+        "value": 248665,
+        "items": [
+          {
+            "name": "1 Diskrimineringsombudsmannen",
+            "value": 142746
+          },
+          {
+            "name": "2 Åtgärder mot diskriminering och rasism m.m.",
+            "value": 105919
+          }
+        ]
+      },
+      {
+        "name": "3 Jämställdhet",
+        "value": 785552,
+        "items": [
+          {
+            "name": "1 Särskilda jämställdhetsåtgärder",
+            "value": 571039
+          },
+          {
+            "name": "2 Jämställdhetsmyndigheten",
+            "value": 166350
+          },
+          {
+            "name": "3 Bidrag för kvinnors organisering",
+            "value": 48163
+          }
+        ]
+      },
+      {
+        "name": "4 Utanförskap",
+        "value": 168000,
+        "items": [
+          {
+            "name": "1 Åtgärder mot utanförskap",
+            "value": 168000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arbetsmarknad och arbetsliv",
+    "value": 93539399,
+    "items": [
+      {
+        "name": "1 Arbetsmarknad",
+        "value": 92303175,
+        "items": [
+          {
+            "name": "1 Arbetsförmedlingens förvaltningskostnader",
+            "value": 7514359
+          },
+          {
+            "name": "2 Bidrag till arbetslöshetsersättning och aktivitetsstöd",
+            "value": 44161580
+          },
+          {
+            "name": "3 Kostnader för arbetsmarknadspolitiska program och insatser",
+            "value": 6995286
+          },
+          {
+            "name": "4 Lönebidrag och Samhall m.m.",
+            "value": 20822749
+          },
+          {
+            "name": "5 Nystartsjobb och etableringsjobb",
+            "value": 4064871
+          },
+          {
+            "name": "6 Rådet för Europeiska socialfonden i Sverige",
+            "value": 129937
+          },
+          {
+            "name": "7 Europeiska socialfonden+ m.m. för perioden 2021–2027",
+            "value": 1584000
+          },
+          {
+            "name": "8 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+            "value": 50001
+          },
+          {
+            "name": "9 Inspektionen för arbetslöshetsförsäkringen",
+            "value": 85031
+          },
+          {
+            "name": "10 Bidrag till administration av grundbeloppet",
+            "value": 65122
+          },
+          {
+            "name": "11 Bidrag till Stiftelsen Utbildning Nordkalotten",
+            "value": 8303
+          },
+          {
+            "name": "12 Bidrag till lönegarantiersättning",
+            "value": 2250000
+          },
+          {
+            "name": "13 Etableringsersättning till vissa nyanlända invandrare",
+            "value": 1480936
+          },
+          {
+            "name": "14 Grundläggande omställnings- och kompetensstöd",
+            "value": 3091000
+          }
+        ]
+      },
+      {
+        "name": "2 Arbetsliv",
+        "value": 1236224,
+        "items": [
+          {
+            "name": "1 Arbetsmiljöverket",
+            "value": 920884
+          },
+          {
+            "name": "2 Arbetsdomstolen",
+            "value": 37924
+          },
+          {
+            "name": "3 Internationella arbetsorganisationen (ILO)",
+            "value": 43722
+          },
+          {
+            "name": "4 Medlingsinstitutet",
+            "value": 68110
+          },
+          {
+            "name": "5 Myndigheten för arbetsmiljökunskap",
+            "value": 53584
+          },
+          {
+            "name": "6 Regional skyddsombudsverksamhet",
+            "value": 112000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Studiestöd",
+    "value": 33793466,
+    "items": [
+      {
+        "name": "1 Studiehjälp",
+        "value": 4544297
+      },
+      {
+        "name": "2 Studiemedel",
+        "value": 20438576
+      },
+      {
+        "name": "3 Omställningsstudiestöd",
+        "value": 4877000
+      },
+      {
+        "name": "4 Statens utgifter för räntor på studielån",
+        "value": 2319551
+      },
+      {
+        "name": "5 Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+        "value": 63150
+      },
+      {
+        "name": "6 Bidrag till vissa studiesociala ändamål",
+        "value": 27000
+      },
+      {
+        "name": "7 Studiestartsstöd",
+        "value": 300000
+      },
+      {
+        "name": "8 Centrala studiestödsnämnden",
+        "value": 1204748
+      },
+      {
+        "name": "9 Överklagandenämnden för studiestöd",
+        "value": 19144
+      }
+    ]
+  },
+  {
+    "name": "Utbildning och universitetsforskning",
+    "value": 103845141,
+    "items": [
+      {
+        "name": "1 Barn-, ungdoms- och vuxenutbildning",
+        "value": 36996224,
+        "items": [
+          {
+            "name": "1 Statens skolverk",
+            "value": 1342316
+          },
+          {
+            "name": "2 Statens skolinspektion",
+            "value": 629618
+          },
+          {
+            "name": "3 Specialpedagogiska skolmyndigheten",
+            "value": 894119
+          },
+          {
+            "name": "4 Sameskolstyrelsen",
+            "value": 64440
+          },
+          {
+            "name": "5 Utveckling av skolväsendet och annan pedagogisk verksamhet",
+            "value": 6094885
+          },
+          {
+            "name": "6 Statligt stöd till särskild utbildning i gymnasieskolan",
+            "value": 269837
+          },
+          {
+            "name": "7 Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+            "value": 4560000
+          },
+          {
+            "name": "8 Bidrag till viss verksamhet inom skolväsendet, m.m.",
+            "value": 204720
+          },
+          {
+            "name": "9 Bidrag till svensk undervisning i utlandet",
+            "value": 118582
+          },
+          {
+            "name": "10 Fortbildning av lärare och förskolepersonal",
+            "value": 1097526
+          },
+          {
+            "name": "11 Skolforskningsinstitutet",
+            "value": 47007
+          },
+          {
+            "name": "12 Praktiknära skolforskning",
+            "value": 36043
+          },
+          {
+            "name": "13 Bidrag till lärarlöner",
+            "value": 4875000
+          },
+          {
+            "name": "14 Särskilda insatser inom skolområdet",
+            "value": 163418
+          },
+          {
+            "name": "15 Statligt stöd för stärkt kunskapsutveckling",
+            "value": 8243000
+          },
+          {
+            "name": "16 Bidrag till vissa studier",
+            "value": 17525
+          },
+          {
+            "name": "17 Statligt stöd till vuxenutbildning",
+            "value": 4156422
+          },
+          {
+            "name": "18 Myndigheten för yrkeshögskolan",
+            "value": 171383
+          },
+          {
+            "name": "19 Statligt stöd till yrkeshögskoleutbildning",
+            "value": 4010383
+          }
+        ]
+      },
+      {
+        "name": "2 Universitet och högskolor",
+        "value": 55420312,
+        "items": [
+          {
+            "name": "1 Universitetskanslersämbetet",
+            "value": 173554
+          },
+          {
+            "name": "2 Universitets- och högskolerådet",
+            "value": 227348
+          },
+          {
+            "name": "3 Uppsala universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 2182340
+          },
+          {
+            "name": "4 Uppsala universitet: Forskning och utbildning på forskarnivå",
+            "value": 2535797
+          },
+          {
+            "name": "5 Lunds universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 2533879
+          },
+          {
+            "name": "6 Lunds universitet: Forskning och utbildning på forskarnivå",
+            "value": 2642263
+          },
+          {
+            "name": "7 Göteborgs universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 2510004
+          },
+          {
+            "name": "8 Göteborgs universitet: Forskning och utbildning på forskarnivå",
+            "value": 1882329
+          },
+          {
+            "name": "9 Stockholms universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 2069522
+          },
+          {
+            "name": "10 Stockholms universitet: Forskning och utbildning på forskarnivå",
+            "value": 1920621
+          },
+          {
+            "name": "11 Umeå universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 1680969
+          },
+          {
+            "name": "12 Umeå universitet: Forskning och utbildning på forskarnivå",
+            "value": 1329980
+          },
+          {
+            "name": "13 Linköpings universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 1860065
+          },
+          {
+            "name": "14 Linköpings universitet: Forskning och utbildning på forskarnivå",
+            "value": 1149738
+          },
+          {
+            "name": "15 Karolinska institutet: Utbildning på grundnivå och avancerad nivå",
+            "value": 849860
+          },
+          {
+            "name": "16 Karolinska institutet: Forskning och utbildning på forskarnivå",
+            "value": 1888686
+          },
+          {
+            "name": "17 Kungl. Tekniska högskolan: Utbildning på grundnivå och avancerad nivå",
+            "value": 1415763
+          },
+          {
+            "name": "18 Kungl. Tekniska högskolan: Forskning och utbildning på forskarnivå",
+            "value": 2011242
+          },
+          {
+            "name": "19 Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 815936
+          },
+          {
+            "name": "20 Luleå tekniska universitet: Forskning och utbildning på forskarnivå",
+            "value": 467765
+          },
+          {
+            "name": "21 Karlstads universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 818759
+          },
+          {
+            "name": "22 Karlstads universitet: Forskning och utbildning på forskarnivå",
+            "value": 307884
+          },
+          {
+            "name": "23 Linnéuniversitetet: Utbildning på grundnivå och avancerad nivå",
+            "value": 1274706
+          },
+          {
+            "name": "24 Linnéuniversitetet: Forskning och utbildning på forskarnivå",
+            "value": 420989
+          },
+          {
+            "name": "25 Örebro universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 956771
+          },
+          {
+            "name": "26 Örebro universitet: Forskning och utbildning på forskarnivå",
+            "value": 347661
+          },
+          {
+            "name": "27 Mittuniversitetet: Utbildning på grundnivå och avancerad nivå",
+            "value": 671582
+          },
+          {
+            "name": "28 Mittuniversitetet: Forskning och utbildning på forskarnivå",
+            "value": 309992
+          },
+          {
+            "name": "29 Malmö universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 1139603
+          },
+          {
+            "name": "30 Malmö universitet: Forskning och utbildning på forskarnivå",
+            "value": 323684
+          },
+          {
+            "name": "31 Mälardalens universitet: Utbildning på grundnivå och avancerad nivå",
+            "value": 738969
+          },
+          {
+            "name": "32 Mälardalens universitet: Forskning och utbildning på forskarnivå",
+            "value": 304899
+          },
+          {
+            "name": "33 Blekinge tekniska högskola: Utbildning på grundnivå och avancerad nivå",
+            "value": 310692
+          },
+          {
+            "name": "34 Blekinge tekniska högskola: Forskning och utbildning på forskarnivå",
+            "value": 118379
+          },
+          {
+            "name": "35 Stockholms konstnärliga högskola: Utbildning på grundnivå och avancerad nivå",
+            "value": 232369
+          },
+          {
+            "name": "36 Stockholms konstnärliga högskola: Forskning och utbildning på forskarnivå",
+            "value": 60094
+          },
+          {
+            "name": "37 Gymnastik- och idrottshögskolan: Utbildning på grundnivå och avancerad nivå",
+            "value": 131673
+          },
+          {
+            "name": "38 Gymnastik- och idrottshögskolan: Forskning och utbildning på forskarnivå",
+            "value": 37689
+          },
+          {
+            "name": "39 Högskolan i Borås: Utbildning på grundnivå och avancerad nivå",
+            "value": 605687
+          },
+          {
+            "name": "40 Högskolan i Borås: Forskning och utbildning på forskarnivå",
+            "value": 114574
+          },
+          {
+            "name": "41 Högskolan Dalarna: Utbildning på grundnivå och avancerad nivå",
+            "value": 513824
+          },
+          {
+            "name": "42 Högskolan Dalarna: Forskning och utbildning på forskarnivå",
+            "value": 118193
+          },
+          {
+            "name": "43 Högskolan i Gävle: Utbildning på grundnivå och avancerad nivå",
+            "value": 560129
+          },
+          {
+            "name": "44 Högskolan i Gävle: Forskning och utbildning på forskarnivå",
+            "value": 125498
+          },
+          {
+            "name": "45 Högskolan i Halmstad: Utbildning på grundnivå och avancerad nivå",
+            "value": 493750
+          },
+          {
+            "name": "46 Högskolan i Halmstad: Forskning och utbildning på forskarnivå",
+            "value": 111415
+          },
+          {
+            "name": "47 Högskolan Kristianstad: Utbildning på grundnivå och avancerad nivå",
+            "value": 481860
+          },
+          {
+            "name": "48 Högskolan Kristianstad: Forskning och utbildning på forskarnivå",
+            "value": 107351
+          },
+          {
+            "name": "49 Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå",
+            "value": 381919
+          },
+          {
+            "name": "50 Högskolan i Skövde: Forskning och utbildning på forskarnivå",
+            "value": 71916
+          },
+          {
+            "name": "51 Högskolan Väst: Utbildning på grundnivå och avancerad nivå",
+            "value": 454954
+          },
+          {
+            "name": "52 Högskolan Väst: Forskning och utbildning på forskarnivå",
+            "value": 101197
+          },
+          {
+            "name": "53 Konstfack: Utbildning på grundnivå och avancerad nivå",
+            "value": 195309
+          },
+          {
+            "name": "54 Konstfack: Forskning och utbildning på forskarnivå",
+            "value": 24000
+          },
+          {
+            "name": "55 Kungl. Konsthögskolan: Utbildning på grundnivå och avancerad nivå",
+            "value": 75800
+          },
+          {
+            "name": "56 Kungl. Konsthögskolan: Forskning och utbildning på forskarnivå",
+            "value": 14079
+          },
+          {
+            "name": "57 Kungl. Musikhögskolan i Stockholm: Utbildning på grundnivå och avancerad nivå",
+            "value": 154795
+          },
+          {
+            "name": "58 Kungl. Musikhögskolan i Stockholm: Forskning och utbildning på forskarnivå",
+            "value": 24146
+          },
+          {
+            "name": "59 Södertörns högskola: Utbildning på grundnivå och avancerad nivå",
+            "value": 505232
+          },
+          {
+            "name": "60 Södertörns högskola: Forskning och utbildning på forskarnivå",
+            "value": 135511
+          },
+          {
+            "name": "61 Försvarshögskolan: Utbildning på grundnivå och avancerad nivå",
+            "value": 47430
+          },
+          {
+            "name": "62 Försvarshögskolan: Forskning och utbildning på forskarnivå",
+            "value": 46185
+          },
+          {
+            "name": "63 Enskilda utbildningsanordnare på högskoleområdet",
+            "value": 4210776
+          },
+          {
+            "name": "64 Särskilda utgifter inom universitet och högskolor",
+            "value": 1332722
+          },
+          {
+            "name": "65 Särskilda medel till universitet och högskolor",
+            "value": 703061
+          },
+          {
+            "name": "66 Ersättningar för klinisk utbildning och forskning",
+            "value": 2983963
+          },
+          {
+            "name": "67 Särskilda bidrag inom högskoleområdet",
+            "value": 70980
+          }
+        ]
+      },
+      {
+        "name": "3 Forskning",
+        "value": 11278203,
+        "items": [
+          {
+            "name": "1 Vetenskapsrådet: Forskning och forskningsinformation",
+            "value": 8439046
+          },
+          {
+            "name": "2 Vetenskapsrådet: Avgifter till internationella organisationer",
+            "value": 420061
+          },
+          {
+            "name": "3 Vetenskapsrådet: Förvaltning",
+            "value": 209513
+          },
+          {
+            "name": "4 Rymdforskning och rymdverksamhet",
+            "value": 1345356
+          },
+          {
+            "name": "5 Rymdstyrelsen: Förvaltning",
+            "value": 54314
+          },
+          {
+            "name": "6 Institutet för rymdfysik",
+            "value": 64659
+          },
+          {
+            "name": "7 Kungl. biblioteket",
+            "value": 464751
+          },
+          {
+            "name": "8 Polarforskningssekretariatet",
+            "value": 70712
+          },
+          {
+            "name": "9 Sunet",
+            "value": 49183
+          },
+          {
+            "name": "10 Överklagandenämnden för etikprövning",
+            "value": 5700
+          },
+          {
+            "name": "11 Etikprövningsmyndigheten",
+            "value": 57418
+          },
+          {
+            "name": "12 Nämnden för prövning av oredlighet i forskning",
+            "value": 11750
+          },
+          {
+            "name": "13 Särskilda utgifter för forskningsändamål",
+            "value": 80695
+          },
+          {
+            "name": "14 Gentekniknämnden",
+            "value": 5045
+          }
+        ]
+      },
+      {
+        "name": "4 Vissa gemensamma ändamål",
+        "value": 150402,
+        "items": [
+          {
+            "name": "1 Internationella program",
+            "value": 81589
+          },
+          {
+            "name": "2 Avgift till Unesco och ICCROM",
+            "value": 32186
+          },
+          {
+            "name": "3 Kostnader för Svenska Unescorådet",
+            "value": 11684
+          },
+          {
+            "name": "4 Utvecklingsarbete inom områdena utbildning och forskning",
+            "value": 24943
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kultur, medier, trossamfund och fritid",
+    "value": 16861894,
+    "items": [
+      {
+        "name": "1 Kulturområdesövergripande verksamhet",
+        "value": 2522393,
+        "items": [
+          {
+            "name": "1 Statens kulturråd",
+            "value": 76668
+          },
+          {
+            "name": "2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+            "value": 454582
+          },
+          {
+            "name": "3 Skapande skola",
+            "value": 226464
+          },
+          {
+            "name": "4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+            "value": 45153
+          },
+          {
+            "name": "5 Stöd till icke-statliga kulturlokaler",
+            "value": 9753
+          },
+          {
+            "name": "6 Bidrag till regional kulturverksamhet",
+            "value": 1689455
+          },
+          {
+            "name": "7 Myndigheten för kulturanalys",
+            "value": 20318
+          }
+        ]
+      },
+      {
+        "name": "2 Teater, dans och musik",
+        "value": 1488917,
+        "items": [
+          {
+            "name": "1 Bidrag till vissa scenkonstinstitutioner",
+            "value": 1134044
+          },
+          {
+            "name": "2 Bidrag till vissa teater-, dans- och musikändamål",
+            "value": 249098
+          },
+          {
+            "name": "3 Statens musikverk",
+            "value": 105775
+          }
+        ]
+      },
+      {
+        "name": "3 Litteraturen, läsandet och språket",
+        "value": 431175,
+        "items": [
+          {
+            "name": "1 Bidrag till litteratur och kulturtidskrifter",
+            "value": 203678
+          },
+          {
+            "name": "2 Myndigheten för tillgängliga medier",
+            "value": 150931
+          },
+          {
+            "name": "3 Institutet för språk och folkminnen",
+            "value": 76566
+          }
+        ]
+      },
+      {
+        "name": "4 Bildkonst, arkitektur, form och design",
+        "value": 112169,
+        "items": [
+          {
+            "name": "1 Statens konstråd",
+            "value": 12096
+          },
+          {
+            "name": "2 Konstnärlig gestaltning av den gemensamma miljön",
+            "value": 42518
+          },
+          {
+            "name": "3 Nämnden för hemslöjdsfrågor",
+            "value": 11947
+          },
+          {
+            "name": "4 Bidrag till bild- och formområdet",
+            "value": 45608
+          }
+        ]
+      },
+      {
+        "name": "5 Konstnärernas villkor",
+        "value": 583359,
+        "items": [
+          {
+            "name": "1 Konstnärsnämnden",
+            "value": 24829
+          },
+          {
+            "name": "2 Ersättningar och bidrag till konstnärer",
+            "value": 558530
+          }
+        ]
+      },
+      {
+        "name": "6 Arkiv",
+        "value": 509579,
+        "items": [
+          {
+            "name": "1 Riksarkivet",
+            "value": 509579
+          }
+        ]
+      },
+      {
+        "name": "7 Kulturmiljö",
+        "value": 1123566,
+        "items": [
+          {
+            "name": "1 Riksantikvarieämbetet",
+            "value": 325784
+          },
+          {
+            "name": "2 Bidrag till kulturmiljövård",
+            "value": 299782
+          },
+          {
+            "name": "3 Kyrkoantikvarisk ersättning",
+            "value": 490000
+          },
+          {
+            "name": "4 Bidrag till arbetslivsmuseer",
+            "value": 8000
+          }
+        ]
+      },
+      {
+        "name": "8 Museer och utställningar",
+        "value": 1975109,
+        "items": [
+          {
+            "name": "1 Centrala museer: Myndigheter",
+            "value": 1556061
+          },
+          {
+            "name": "2 Centrala museer: Stiftelser",
+            "value": 275714
+          },
+          {
+            "name": "3 Bidrag till vissa museer",
+            "value": 79218
+          },
+          {
+            "name": "4 Forum för levande historia",
+            "value": 64036
+          },
+          {
+            "name": "5 Statliga utställningsgarantier och inköp av vissa kulturföremål",
+            "value": 80
+          }
+        ]
+      },
+      {
+        "name": "9 Trossamfund",
+        "value": 101732,
+        "items": [
+          {
+            "name": "1 Myndigheten för stöd till trossamfund",
+            "value": 19032
+          },
+          {
+            "name": "2 Stöd till trossamfund",
+            "value": 82700
+          }
+        ]
+      },
+      {
+        "name": "10 Film",
+        "value": 554444,
+        "items": [
+          {
+            "name": "1 Filmstöd",
+            "value": 554444
+          }
+        ]
+      },
+      {
+        "name": "11 Medier",
+        "value": 57244,
+        "items": [
+          {
+            "name": "1 Sändningar av TV Finland",
+            "value": 9574
+          },
+          {
+            "name": "2 Forskning och dokumentation om medieutvecklingen",
+            "value": 3531
+          },
+          {
+            "name": "3 Avgift till europeiska audiovisuella observatoriet",
+            "value": 733
+          },
+          {
+            "name": "4 Stöd till taltidningar",
+            "value": 43406
+          }
+        ]
+      },
+      {
+        "name": "12 Ungdomspolitik",
+        "value": 359485,
+        "items": [
+          {
+            "name": "1 Myndigheten för ungdoms- och civilsamhällesfrågor",
+            "value": 66805
+          },
+          {
+            "name": "2 Bidrag till nationell och internationell ungdomsverksamhet",
+            "value": 290680
+          },
+          {
+            "name": "3 Särskilda insatser inom ungdomspolitiken",
+            "value": 2000
+          }
+        ]
+      },
+      {
+        "name": "13 Politik för det civila samhället",
+        "value": 2572518,
+        "items": [
+          {
+            "name": "1 Stöd till idrotten",
+            "value": 2126811
+          },
+          {
+            "name": "2 Bidrag till allmänna samlingslokaler",
+            "value": 52164
+          },
+          {
+            "name": "3 Stöd till friluftsorganisationer",
+            "value": 104785
+          },
+          {
+            "name": "4 Bidrag till riksdagspartiers kvinnoorganisationer",
+            "value": 15000
+          },
+          {
+            "name": "5 Insatser för den ideella sektorn",
+            "value": 273758
+          }
+        ]
+      },
+      {
+        "name": "14 Folkbildning",
+        "value": 4372272,
+        "items": [
+          {
+            "name": "1 Statsbidrag till studieförbund",
+            "value": 1641023
+          },
+          {
+            "name": "2 Statsbidrag till folkhögskolor",
+            "value": 2446760
+          },
+          {
+            "name": "3 Bidrag till tolkutbildning",
+            "value": 57331
+          },
+          {
+            "name": "4 Särskilt utbildningsstöd",
+            "value": 227158
+          }
+        ]
+      },
+      {
+        "name": "15 Tillsyn över spelmarknaden",
+        "value": 97932,
+        "items": [
+          {
+            "name": "1 Spelinspektionen",
+            "value": 97932
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",
+    "value": 3240094,
+    "items":[
+      {
+        "name": "1 Samhällsplanering, bostadsmarknad, byggande och lantmäteriverksamhet",
+        "value": 2949535,
+        "items": [
+          {
+            "name": "1 Bostadspolitisk utveckling",
+            "value": 253000
+          },
+          {
+            "name": "2 Omstrukturering av kommunala bostadsföretag",
+            "value": 12500
+          },
+          {
+            "name": "3 Stöd för att underlätta för enskilda att ordna bostad",
+            "value": 43000
+          },
+          {
+            "name": "4 Boverket",
+            "value": 302277
+          },
+          {
+            "name": "5 Statens geotekniska institut",
+            "value": 57752
+          },
+          {
+            "name": "6 Lantmäteriet",
+            "value": 871006
+          },
+          {
+            "name": "7 Energieffektivisering av flerbostadshus",
+            "value": 40000
+          },
+          {
+            "name": "8 Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+            "value": 1370000
+          }
+        ]
+      },  
+      {
+        "name": "2 Konsumentpolitik",
+        "value": 290559,
+        "items": [
+          {
+            "name": "1 Konsumentverket",
+            "value": 183226
+          },
+          {
+            "name": "2 Allmänna reklamationsnämnden",
+            "value": 66392
+          },
+          {
+            "name": "3 Fastighetsmäklarinspektionen",
+            "value": 36258
+          },
+          {
+            "name": "4 Åtgärder på konsumentområdet",
+            "value": 1559
+          },
+          {
+            "name": "5 Bidrag till miljömärkning av produkter",
+            "value": 3124
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Regional utveckling",
+    "value": 4294201,
+    "items": [
+      {
+        "name": "1 Regionala utvecklingsåtgärder",
+        "value": 2012337
+      },
+      {
+        "name": "2 Transportbidrag",
+        "value": 549864
+      },
+      {
+        "name": "3 Europeiska regionala utvecklingsfonden och Fonden för en rättvis omställning perioden 2021–2027",
+        "value": 1732000
+      }
+    ]
+  },
+  {
+    "name": "Klimat, miljö och natur",
+    "value": 16438897,
+    "items": [
+      {
+        "name": "1 Miljöpolitik",
+        "value": 15174410,
+        "items": [
+          {
+            "name": "1 Naturvårdsverket",
+            "value": 651691
+          },
+          {
+            "name": "2 Miljöövervakning m.m.",
+            "value": 388714
+          },
+          {
+            "name": "3 Åtgärder för värdefull natur",
+            "value": 1352035
+          },
+          {
+            "name": "4 Sanering och återställning av förorenade områden",
+            "value": 1064318
+          },
+          {
+            "name": "5 Miljöforskning",
+            "value": 93825
+          },
+          {
+            "name": "6 Kemikalieinspektionen",
+            "value": 306833
+          },
+          {
+            "name": "7 Avgifter till Internationella organisationer",
+            "value": 337431
+          },
+          {
+            "name": "8 Åtgärder för minskade kväveutsläpp till luft i jordbrukssektorn",
+            "value": 100000
+          },
+          {
+            "name": "9 Sveriges meteorologiska och hydrologiska institut",
+            "value": 308632
+          },
+          {
+            "name": "10 Klimatanpassning",
+            "value": 89500
+          },
+          {
+            "name": "11 Åtgärder för havs- och vattenmiljö",
+            "value": 1326565
+          },
+          {
+            "name": "12 Insatser för internationella klimatinvesteringar",
+            "value": 263450
+          },
+          {
+            "name": "13 Internationellt miljösamarbete",
+            "value": 52400
+          },
+          {
+            "name": "14 Skydd av värdefull natur",
+            "value": 1185500
+          },
+          {
+            "name": "15 Havs- och vattenmyndigheten",
+            "value": 360516
+          },
+          {
+            "name": "16 Klimatinvesteringar",
+            "value": 3495000
+          },
+          {
+            "name": "17 Klimatpremier",
+            "value": 2313000
+          },
+          {
+            "name": "18 Industriklivet",
+            "value": 1345000
+          },
+          {
+            "name": "19 Åtgärder för ras- och skredsäkring längs Göta älv",
+            "value": 115000
+          },
+          {
+            "name": "20 Driftstöd för bio-CCS",
+            "value": 15000
+          },
+          {
+            "name": "21 Åtgärder inom ramen för den sociala klimatfonden",
+            "value": 10000
+          }
+        ]
+      },
+      {
+        "name": "2 Miljöforskning",
+        "value": 1264487,
+        "items": [
+          {
+            "name": "1 Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+            "value": 137079
+          },
+          {
+            "name": "2 Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",
+            "value": 1127408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Energi",
+    "value": 6631297,
+    "items": [
+      {
+        "name": "1 Statens energimyndighet",
+        "value": 585557
+      },
+      {
+        "name": "2 Insatser för energieffektivisering",
+        "value": 415000
+      },
+      {
+        "name": "3 Energiforskning",
+        "value": 1647723
+      },
+      {
+        "name": "4 Energimarknadsinspektionen",
+        "value": 234039
+      },
+      {
+        "name": "5 Energiplanering",
+        "value": 790000
+      },
+      {
+        "name": "6 Avgifter till internationella organisationer",
+        "value": 33328
+      },
+      {
+        "name": "7 Elsäkerhetsverket",
+        "value": 79650
+      },
+      {
+        "name": "8 Laddinfrastruktur",
+        "value": 930000
+      },
+      {
+        "name": "9 Biogasstöd",
+        "value": 985000
+      },
+      {
+        "name": "10 Energiberedskap",
+        "value": 198000
+      },
+      {
+        "name": "11 Elberedskap",
+        "value": 733000
+      }
+    ]
+  },
+  {
+    "name": "Kommunikationer",
+    "value": 94447432,
+    "items": [
+      {
+        "name": "1 Transportpolitik",
+        "value": 92790142,
+        "items": [
+          {
+            "name": "1 Utveckling av statens transportinfrastruktur",
+            "value": 41028989
+          },
+          {
+            "name": "2 Vidmakthållande av statens transportinfrastruktur",
+            "value": 40302196
+          },
+          {
+            "name": "3 Trafikverket",
+            "value": 1539222
+          },
+          {
+            "name": "4 Ersättning för sjöräddning och fritidsbåtsändamål",
+            "value": 194308
+          },
+          {
+            "name": "5 Ersättning för viss kanal- och slussinfrastruktur",
+            "value": 62284
+          },
+          {
+            "name": "6 Ersättning avseende flygplatser",
+            "value": 296013
+          },
+          {
+            "name": "7 Trafikavtal",
+            "value": 1006000
+          },
+          {
+            "name": "8 Viss internationell verksamhet",
+            "value": 30557
+          },
+          {
+            "name": "9 Statens väg- och transportforskningsinstitut",
+            "value": 89741
+          },
+          {
+            "name": "10 Från EU-budgeten finansierade stöd till Transeuropeiska nätverk",
+            "value": 950000
+          },
+          {
+            "name": "11 Trängselskatt i Stockholm",
+            "value": 1723381
+          },
+          {
+            "name": "12 Transportstyrelsen",
+            "value": 2660987
+          },
+          {
+            "name": "13 Trafikanalys",
+            "value": 75745
+          },
+          {
+            "name": "14 Trängselskatt i Göteborg",
+            "value": 745253
+          },
+          {
+            "name": "15 Sjöfartsstöd",
+            "value": 1550000
+          },
+          {
+            "name": "16 Internationell tågtrafik",
+            "value": 95000
+          },
+          {
+            "name": "17 Infrastruktur för flygtrafiktjänst",
+            "value": 379000
+          },
+          {
+            "name": "18 Lån till körkort",
+            "value": 31466
+          },
+          {
+            "name": "19 Obemannad luftfart",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "2 Politiken för informationssamhället",
+        "value": 1657290,
+        "items": [
+          {
+            "name": "1 Post- och telestyrelsen",
+            "value": 247926
+          },
+          {
+            "name": "2 Ersättning för särskilda tjänster för personer med funktionsnedsättning",
+            "value": 106278
+          },
+          {
+            "name": "3 Grundläggande betaltjänster",
+            "value": 25037
+          },
+          {
+            "name": "4 Informationsteknik och telekommunikation",
+            "value": 58844
+          },
+          {
+            "name": "5 Driftsäker och tillgänglig elektronisk kommunikation",
+            "value": 819014
+          },
+          {
+            "name": "6 Myndigheten för digital förvaltning",
+            "value": 270297
+          },
+          {
+            "name": "7 Digital förvaltning",
+            "value": 129894
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Areella näringar, landsbygd och livsmedel",
+    "value": 21697804,
+    "items": [
+      {
+        "name": "1 Skogsstyrelsen",
+        "value": 584367
+      },
+      {
+        "name": "2 Insatser för skogsbruket",
+        "value": 594373
+      },
+      {
+        "name": "3 Statens veterinärmedicinska anstalt",
+        "value": 227537
+      },
+      {
+        "name": "4 Bidrag till veterinär fältverksamhet",
+        "value": 156088
+      },
+      {
+        "name": "5 Djurhälsovård och djurskyddsfrämjande åtgärder",
+        "value": 9933
+      },
+      {
+        "name": "6 Bekämpning av smittsamma djursjukdomar",
+        "value": 133349
+      },
+      {
+        "name": "7 Ersättningar för viltskador m.m.",
+        "value": 67778
+      },
+      {
+        "name": "8 Statens jordbruksverk",
+        "value": 860851
+      },
+      {
+        "name": "9 Bekämpning av växtskadegörare",
+        "value": 21000
+      },
+      {
+        "name": "10 Gårdsstöd m.m.",
+        "value": 7661258
+      },
+      {
+        "name": "11 Intervention för jordbruksprodukter m.m.",
+        "value": 169000
+      },
+      {
+        "name": "12 Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027",
+        "value": 2230300
+      },
+      {
+        "name": "13 Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027",
+        "value": 1942500
+      },
+      {
+        "name": "14 Livsmedelsverket",
+        "value": 527849
+      },
+      {
+        "name": "15 Konkurrenskraftig livsmedelssektor",
+        "value": 246160
+      },
+      {
+        "name": "16 Bidrag till vissa internationella organisationer m.m.",
+        "value": 57413
+      },
+      {
+        "name": "17 Åtgärder för landsbygdens miljö och struktur",
+        "value": 1198387
+      },
+      {
+        "name": "18 Från EU-budgeten finansierade åtgärder för landsbygdens miljö och struktur",
+        "value": 773062
+      },
+      {
+        "name": "19 Miljöförbättrande åtgärder i jordbruket",
+        "value": 34830
+      },
+      {
+        "name": "20 Stöd till jordbrukets rationalisering m.m.",
+        "value": 24116
+      },
+      {
+        "name": "21 Åtgärder på fjällägenheter",
+        "value": 1529
+      },
+      {
+        "name": "22 Främjande av rennäringen m.m.",
+        "value": 135915
+      },
+      {
+        "name": "23 Sveriges lantbruksuniversitet",
+        "value": 2342374
+      },
+      {
+        "name": "24 Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning och samfinansierad forskning",
+        "value": 818664
+      },
+      {
+        "name": "25 Bidrag till Skogs- och lantbruksakademien",
+        "value": 1177
+      },
+      {
+        "name": "26 Slakterikontroll",
+        "value": 165137
+      },
+      {
+        "name": "27 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+        "value": 356000
+      },
+      {
+        "name": "28 Stödåtgärder för fiske och vattenbruk 2021–2027",
+        "value": 96857
+      },
+      {
+        "name": "29 Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027",
+        "value": 260000
+      }
+    ]
+  },
+  {
+    "name": "Näringsliv",
+    "value": 8315298,
+    "items": [ 
+      {
+        "name": "1 Näringspolitik",
+        "value": 7406997,
+        "items": [
+          {
+            "name": "1 Verket för innovationssystem",
+            "value": 286870
+          },
+          {
+            "name": "2 Verket för innovationssystem: Forskning och utveckling",
+            "value": 3410855
+          },
+          {
+            "name": "3 Institutens strategiska kompetensmedel",
+            "value": 881268
+          },
+          {
+            "name": "4 Tillväxtverket",
+            "value": 426447
+          },
+          {
+            "name": "5 Näringslivsutveckling",
+            "value": 254042
+          },
+          {
+            "name": "6 Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+            "value": 75303
+          },
+          {
+            "name": "7 Turismfrämjande",
+            "value": 109613
+          },
+          {
+            "name": "8 Sveriges geologiska undersökning",
+            "value": 404039
+          },
+          {
+            "name": "9 Geovetenskaplig forskning",
+            "value": 5923
+          },
+          {
+            "name": "10 Miljösäkring av oljelagringsanläggningar",
+            "value": 14000
+          },
+          {
+            "name": "11 Bolagsverket",
+            "value": 152881
+          },
+          {
+            "name": "12 Bidrag till Kungl. Ingenjörsvetenskapsakademien",
+            "value": 12327
+          },
+          {
+            "name": "13 Konkurrensverket",
+            "value": 216726
+          },
+          {
+            "name": "14 Konkurrensforskning",
+            "value": 10804
+          },
+          {
+            "name": "15 Upprustning och drift av Göta kanal",
+            "value": 39910
+          },
+          {
+            "name": "16 Omstrukturering och genomlysning av statligt ägda företag",
+            "value": 68850
+          },
+          {
+            "name": "17 Kapitalinsatser i statligt ägda företag",
+            "value": 11000
+          },
+          {
+            "name": "18 Avgifter till vissa internationella organisationer",
+            "value": 16860
+          },
+          {
+            "name": "19 Finansiering av rättegångskostnader",
+            "value": 18000
+          },
+          {
+            "name": "20 Bidrag till företagsutveckling och innovation",
+            "value": 269472
+          },
+          {
+            "name": "21 Patent- och registreringsverket",
+            "value": 356807
+          },
+          {
+            "name": "22 Stöd vid korttidsarbete",
+            "value": 365000
+          }
+        ]
+      },
+      {
+        "name": "2 Utrikeshandel, export- och investeringsfrämjande",
+        "value": 908301,
+        "items": [
+          {
+            "name": "1 Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet",
+            "value": 36259
+          },
+          {
+            "name": "2 Kommerskollegium",
+            "value": 115250
+          },
+          {
+            "name": "3 Exportfrämjande verksamhet",
+            "value": 484367
+          },
+          {
+            "name": "4 Investeringsfrämjande",
+            "value": 103772
+          },
+          {
+            "name": "5 Avgifter till internationella handelsorganisationer",
+            "value": 23517
+          },
+          {
+            "name": "6 Bidrag till standardiseringen",
+            "value": 45136
+          },
+          {
+            "name": "7 AB Svensk Exportkredits statsstödda exportkreditgivning",
+            "value": 100000
+          }
+        ]
+      }
+    ] 
+  },
+  {
+    "name": "Allmänna bidrag till kommuner",
+    "value": 173107254,
+    "items": [
+      {
+        "name": "1 Kommunalekonomisk utjämning",
+        "value": 166750052
+      },
+      {
+        "name": "2 Utjämningsbidrag för LSS-kostnader",
+        "value": 6092052
+      },
+      {
+        "name": "3 Bidrag till kommunalekonomiska organisationer",
+        "value": 7150
+      },
+      {
+        "name": "4 Tillfälligt stöd till enskilda regioner",
+        "value": 250000
+      },
+      {
+        "name": "5 Bidrag för stärkt effektivitet i kommunsektorn",
+        "value": 8000
+      }
+    ]
+  },
+  {
+    "name": "Statsskuldsräntor m.m.",
+    "value": 28755200,
+    "items": [
+      {
+        "name": "1 Räntor på statsskulden",
+        "value": 28600000
+      },
+      {
+        "name": "2 Oförutsedda utgifter",
+        "value": 10000
+      },
+      {
+        "name": "3 Riksgäldskontorets provisionsutgifter",
+        "value": 145200
+      }
+    ]
+  },
+  {
+    "name": "Avgiften till Europeiska unionen",
+    "value": 47761911,
+    "items": [
+      {
+        "name": "1 Avgiften till Europeiska unionen",
+        "value": 47761911
+      }
+    ]
+  }
+]

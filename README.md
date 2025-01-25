@@ -36,3 +36,14 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
+## Backlog
+
+## Göra det möjligt att ändra/ta bort utgifter och inkomster
+## Automatiskt uppdatera summor/diagram när siffror ändras
+## En balansöversikt med +/-
+## Koppla procentsatser till skatter
+## Koppla inkomstskatt till diagram
+
+## Exportera excel?
+## Ladda upp excel?

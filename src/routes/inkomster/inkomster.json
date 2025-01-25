@@ -1,0 +1,1400 @@
+[
+  {
+    "name": " Direkta skatter på arbete",
+    "value": 786951392,
+    "items": [
+      {
+        "name": "1 Inkomstskatter",
+        "value": 1033806256,
+        "items": [
+          {
+            "name": "1 Statlig inkomstskatt",
+            "value": 64165361
+          },
+          {
+            "name": "2 Kommunal inkomstskatt",
+            "value": 969640894
+          }
+        ]
+      },
+      {
+        "name": "2 Allmän pensionsavgift",
+        "value": 166628512,
+        "items": [
+          {
+            "name": "1 Allmän pensionsavgift",
+            "value": 166628512
+          }
+        ]
+      },
+      {
+        "name": "3 Artistskatt",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Artistskatt",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "4 Skattereduktioner",
+        "value": -413483375,
+        "items": [
+          {
+            "name": "1 Allmän pensionsavgift",
+            "value": -166602782
+          },
+          {
+            "name": "2 Arbetslöshetskassa",
+            "value": -1603040
+          },
+          {
+            "name": "3 Fastighetsavgift",
+            "value": -505872
+          },
+          {
+            "name": "4 Sjöinkomst",
+            "value": -39981
+          },
+          {
+            "name": "5 Jobbskatteavdrag",
+            "value": -204420941
+          },
+          {
+            "name": "6 Avdrag för hushållsarbete",
+            "value": -19892078
+          },
+          {
+            "name": "7 Gåvor till ideell verksamhet",
+            "value": -512695
+          },
+          {
+            "name": "8 Övriga skattereduktioner",
+            "value": 0
+          },
+          {
+            "name": "9 Skattereduktion för boende i vissa områden",
+            "value": -1366241
+          },
+          {
+            "name": "10 Skattereduktion sjuk- och aktivitetsersättning",
+            "value": -4148217
+          },
+          {
+            "name": "11 Skattereduktion för förnybar el",
+            "value": -710880
+          },
+          {
+            "name": "12 Skattereduktion för installation av grön teknik",
+            "value": -4305778
+          },
+          {
+            "name": "13 Skattereduktion för förvärvsinkomster",
+            "value": -9374869
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Indirekta skatter på arbete",
+    "value": 790968384,
+    "items": [
+      {
+        "name": "1 Arbetsgivaravgifter",
+        "value": 771132213,
+        "items": [
+          {
+            "name": "1 Sjukförsäkringsavgift",
+            "value": 85888246
+          },
+          {
+            "name": "2 Föräldraförsäkringsavgift",
+            "value": 62904067
+          },
+          {
+            "name": "3 Arbetsskadeavgift",
+            "value": 4838774
+          },
+          {
+            "name": "4 Ålderspensionsavgift",
+            "value": 253666407
+          },
+          {
+            "name": "5 Efterlevandepensionsavgift",
+            "value": 14516323
+          },
+          {
+            "name": "6 Arbetsmarknadsavgift",
+            "value": 63198854
+          },
+          {
+            "name": "7 Allmän löneavgift",
+            "value": 281132793
+          },
+          {
+            "name": "8 Ofördelade avgifter",
+            "value": 0
+          },
+          {
+            "name": "9 Nedsatta avgifter",
+            "value": 4986748
+          }
+        ]
+      },
+      {
+        "name": "2 Egenavgifter",
+        "value": 11730609,
+        "items": [
+          {
+            "name": "1 Sjukförsäkringsavgift",
+            "value": 135988
+          },
+          {
+            "name": "2 Föräldraförsäkringsavgift",
+            "value": 627763
+          },
+          {
+            "name": "3 Arbetsskadeavgift",
+            "value": 58566
+          },
+          {
+            "name": "4 Ålderspensionsavgift, netto",
+            "value": 4644030
+          },
+          {
+            "name": "5 Efterlevandepensionsavgift",
+            "value": 181399
+          },
+          {
+            "name": "6 Arbetsmarknadsavgift",
+            "value": 1656
+          },
+          {
+            "name": "7 Allmän löneavgift",
+            "value": 4267241
+          },
+          {
+            "name": "8 Ofördelade avgifter",
+            "value": 0
+          },
+          {
+            "name": "9 Nedsatta avgifter",
+            "value": 1813966
+          }
+        ]
+      },
+      {
+        "name": "3 Avgifter till premiepensionssystemet",
+        "value": -53234021,
+        "items": [
+          {
+            "name": "1 Avgifter till premiepensionssystemet",
+            "value": -53234021
+          }
+        ]
+      },
+      {
+        "name": "4 Särskild löneskatt",
+        "value": 67582104,
+        "items": [
+          {
+            "name": "1 Pensionskostnader, företag",
+            "value": 60732591
+          },
+          {
+            "name": "2 Pensionskostnader, staten",
+            "value": 5643340
+          },
+          {
+            "name": "3 Förvärvsinkomster",
+            "value": 529070
+          },
+          {
+            "name": "4 Egenföretagare",
+            "value": 677103
+          },
+          {
+            "name": "5 Övrigt",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "5 Nedsättningar",
+        "value": -6800714,
+        "items": [
+          {
+            "name": "1 Arbetsgivaravgifter",
+            "value": -4986748
+          },
+          {
+            "name": "2 Egenavgifter, generell nedsättning",
+            "value": -1748323
+          },
+          {
+            "name": "3 Egenavgifter, regional nedsättning",
+            "value": -65643
+          }
+        ]
+      },
+      {
+        "name": "6 Tjänstegruppliv",
+        "value": 558192,
+        "items": [
+          {
+            "name": "1 Tjänstegruppliv",
+            "value": 558192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skatt på kapital ",
+    "value": 418599454,
+    "items": [
+      {
+        "name": "1 Skatt på kapital, hushåll",
+        "value": 92143300,
+        "items": [
+          {
+            "name": "1 Skatt på kapital",
+            "value": 126695210
+          },
+          {
+            "name": "2 Skattereduktion kapital",
+            "value": -34706103
+          },
+          {
+            "name": "3 Expansionsmedelsskatt",
+            "value": 154193
+          }
+        ]
+      },
+      {
+        "name": "2 Skatt på företagsvinster",
+        "value": 225163204,
+        "items": [
+          {
+            "name": "1 Skatt på företagsvinster",
+            "value": 225169537
+          },
+          {
+            "name": "2 Skattereduktioner",
+            "value": -6333
+          }
+        ]
+      },
+      {
+        "name": "3 Kupongskatt",
+        "value": 9283504,
+        "items": [
+          {
+            "name": "1 Kupongskatt",
+            "value": 9283504
+          }
+        ]
+      },
+      {
+        "name": "4 Avkastningsskatt",
+        "value": 29994198,
+        "items": [
+          {
+            "name": "1 Avkastningsskatt, hushåll",
+            "value": 267665
+          },
+          {
+            "name": "2 Avkastningsskatt, företag",
+            "value": 29589348
+          },
+          {
+            "name": "3 Avkastningsskatt på individuellt pensionssparande",
+            "value": 137184
+          }
+        ]
+      },
+      {
+        "name": "5 Fastighetsskatt",
+        "value": 43127568,
+        "items": [
+          {
+            "name": "1 Fastighetsskatt, hushåll",
+            "value": 949102
+          },
+          {
+            "name": "2 Fastighetsskatt, företag",
+            "value": 19276798
+          },
+          {
+            "name": "3 Kommunal fastighetsavgift, hushåll",
+            "value": 18104629
+          },
+          {
+            "name": "4 Kommunal fastighetsavgift, företag",
+            "value": 4797038
+          }
+        ]
+      },
+      {
+        "name": "6 Stämpelskatt",
+        "value": 12906739,
+        "items": [
+          {
+            "name": "1 Stämpelskatt",
+            "value": 12906739
+          }
+        ]
+      },
+      {
+        "name": "7 Riskskatt för kreditinstitut",
+        "value": 5980941,
+        "items": [
+          {
+            "name": "1 Riskskatt för kreditinstitut",
+            "value": 5980941
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skatt på konsumtion och insatsvaror ",
+    "value": 728287523,
+    "items": [
+      {
+        "name": "1 Mervärdesskatt",
+        "value": 589617623,
+        "items": [
+          {
+            "name": "1 Mervärdesskatt",
+            "value": 589617623
+          }
+        ]
+      },
+      {
+        "name": "2 Skatt på alkohol och tobak",
+        "value": 31797223,
+        "items": [
+          {
+            "name": "1 Skatt på tobak",
+            "value": 12594923
+          },
+          {
+            "name": "2 Skatt på etylalkohol",
+            "value": 6182369
+          },
+          {
+            "name": "3 Skatt på vin",
+            "value": 7163457
+          },
+          {
+            "name": "4 Skatt på mellanklassprodukter",
+            "value": 169080
+          },
+          {
+            "name": "5 Skatt på öl",
+            "value": 5170013
+          },
+          {
+            "name": "6 Privatinförsel av alkohol och tobak",
+            "value": 861
+          },
+          {
+            "name": "7 Skatt på vissa nikotinhaltiga produkter",
+            "value": 516521
+          }
+        ]
+      },
+      {
+        "name": "3 Energiskatt",
+        "value": 44545424,
+        "items": [
+          {
+            "name": "1 Skatt på elektrisk kraft",
+            "value": 34952665
+          },
+          {
+            "name": "2 Energiskatt bensin",
+            "value": 4384167
+          },
+          {
+            "name": "3 Energiskatt oljeprodukter",
+            "value": 4929408
+          },
+          {
+            "name": "4 Energiskatt övrigt",
+            "value": 279184
+          }
+        ]
+      },
+      {
+        "name": "4 Koldioxidskatt",
+        "value": 24533371,
+        "items": [
+          {
+            "name": "1 Koldioxidskatt bensin",
+            "value": 8612056
+          },
+          {
+            "name": "2 Koldioxidskatt oljeprodukter",
+            "value": 15414621
+          },
+          {
+            "name": "3 Koldioxidskatt övrigt",
+            "value": 506693
+          }
+        ]
+      },
+      {
+        "name": "5 Övriga skatter på energi och miljö",
+        "value": 7469767,
+        "items": [
+          {
+            "name": "1 Svavelskatt",
+            "value": 11092
+          },
+          {
+            "name": "2 Skatt på råtallolja",
+            "value": 0
+          },
+          {
+            "name": "3 Särskild skatt mot försurning",
+            "value": 55938
+          },
+          {
+            "name": "4 Skatt på bekämpningsmedel",
+            "value": 158203
+          },
+          {
+            "name": "5 Avfallsskatt",
+            "value": 370069
+          },
+          {
+            "name": "6 Avgifter till Kemikalieinspektionen",
+            "value": 51700
+          },
+          {
+            "name": "7 Övriga skatter",
+            "value": 116390
+          },
+          {
+            "name": "8 Intäkter från EU:s handel med utsläppsrätter",
+            "value": 3498030
+          },
+          {
+            "name": "9 Kemikalieskatt",
+            "value": 2283581
+          },
+          {
+            "name": "10 Skatt på flygresor",
+            "value": 774764
+          },
+          {
+            "name": "11 Skatt på avfallsförbränning",
+            "value": 0
+          },
+          {
+            "name": "12 Skatt på plastbärkassar",
+            "value": 0
+          },
+          {
+            "name": "13 Intäkter från handel med Elcertifikat",
+            "value": 150000
+          },
+          {
+            "name": "14 Flaskhalsintäkter",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "6 Skatt på vägtrafik",
+        "value": 22472719,
+        "items": [
+          {
+            "name": "1 Fordonsskatt",
+            "value": 15408355
+          },
+          {
+            "name": "2 Vägavgifter",
+            "value": 1603228
+          },
+          {
+            "name": "3 Trängselskatt",
+            "value": 2632059
+          },
+          {
+            "name": "4 Skatt på trafikförsäkringspremier",
+            "value": 2829077
+          }
+        ]
+      },
+      {
+        "name": "7 Övriga skatter",
+        "value": 7851396,
+        "items": [
+          {
+            "name": "1 Systembolaget AB:s överskott",
+            "value": 356300
+          },
+          {
+            "name": "2 Inlevererat överskott från Svenska Spel AB",
+            "value": 1851300
+          },
+          {
+            "name": "3 Skatt på spel",
+            "value": 5461275
+          },
+          {
+            "name": "4 Spelavgifter",
+            "value": 42500
+          },
+          {
+            "name": "5 Skatt på annonser och reklam",
+            "value": 21
+          },
+          {
+            "name": "6 Avgifter för telekommunikation",
+            "value": 140000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skatt på import ",
+    "value": 7933347,
+    "items": [
+      {
+        "name": "1 Tullmedel",
+        "value": 7933347
+      },
+      {
+        "name": "2 Sockeravgifter",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "Restförda och övriga skatter ",
+    "value": 10709602,
+    "items": [
+      {
+        "name": "1 Restförda skatter",
+        "value": -12687101,
+        "items": [
+          {
+            "name": "1 Restförda skatter, hushåll",
+            "value": -3769743
+          },
+          {
+            "name": "2 Restförda skatter, företag",
+            "value": -8917357
+          }
+        ]
+      },
+      {
+        "name": "2 Övriga skatter",
+        "value": 6990856,
+        "items": [
+          {
+            "name": "1 Omprövningar aktuellt beskattningsår",
+            "value": -577770
+          },
+          {
+            "name": "2 Omprövningar äldre beskattningsår",
+            "value": 1912335
+          },
+          {
+            "name": "3 Anstånd",
+            "value": 500000
+          },
+          {
+            "name": "4 Övriga skatter",
+            "value": 4825380
+          },
+          {
+            "name": "5 Skattetillägg",
+            "value": 144828
+          },
+          {
+            "name": "6 Förseningsavgifter",
+            "value": 186083
+          }
+        ]
+      },
+      {
+        "name": "3 Övriga skatter företag",
+        "value": -380542,
+        "items": [
+          {
+            "name": "1 Omprövningar aktuellt beskattningsår",
+            "value": -1739630
+          },
+          {
+            "name": "2 Omprövningar äldre beskattningsår",
+            "value": 0
+          },
+          {
+            "name": "3 Anstånd",
+            "value": -500000
+          },
+          {
+            "name": "4 Övriga skatter",
+            "value": -10000
+          },
+          {
+            "name": "5 Skattetillägg",
+            "value": 1455172
+          },
+          {
+            "name": "6 Förseningsavgifter",
+            "value": 413917
+          }
+        ]
+      },
+      {
+        "name": "4 Intäkter som förs till fonder",
+        "value": 7351649,
+        "items": [
+          {
+            "name": "1 Insättningsgarantiavgifter",
+            "value": 2409300
+          },
+          {
+            "name": "2 Batteriavgifter",
+            "value": 1700
+          },
+          {
+            "name": "3 Kväveoxidavgifter",
+            "value": 612900
+          },
+          {
+            "name": "4 Resolutionsavgift",
+            "value": 4327749
+          }
+        ]
+      },
+      {
+        "name": "5 Avgifter till public service",
+        "value": 9434739,
+        "items": [
+          {
+            "name": "1 Avgifter till public service",
+            "value": 9434739
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avgående poster, skatter till EU  ",
+    "value": -7933347,
+    "items": [
+      {
+        "name": "1 EU-skatter",
+        "value": -7933347,
+        "items": [
+          {
+            "name": "1 EU-skatter",
+            "value": -7933347
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avgående poster, skatter till andra sektorer ",
+    "value": -1336433319,
+    "items": [
+      {
+        "name": "1 Skatter till andra sektorer",
+        "value": -1336433319,
+        "items": [
+          {
+            "name": "1 Kommunala skatter",
+            "value": -992013514
+          },
+          {
+            "name": "2 Avgifter till AP-fonder",
+            "value": -344419804
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Periodiseringar ",
+    "value": 3062709,
+    "items": [
+      {
+        "name": "1 Uppbördsförskjutningar",
+        "value": 12086098,
+        "items": [
+          {
+            "name": "1 Uppbördsförskjutningar",
+            "value": 12086098
+          }
+        ]
+      },
+      {
+        "name": "2 Betalningsförskjutningar",
+        "value": -24423389,
+        "items": [
+          {
+            "name": "1 Kommuner och regioner",
+            "value": -11380309
+          },
+          {
+            "name": "2 Ålderspensionssystemet",
+            "value": 1577164
+          },
+          {
+            "name": "3 Företag och hushåll",
+            "value": -14815654
+          },
+          {
+            "name": "4 Kyrkosamfund",
+            "value": 176245
+          },
+          {
+            "name": "5 EU",
+            "value": 19165
+          }
+        ]
+      },
+      {
+        "name": "3 Anstånd",
+        "value": 15400000,
+        "items": [
+          {
+            "name": "1 Anstånd",
+            "value": 15400000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rörelseöverskott ",
+    "value": 628208,
+    "items": [
+      {
+        "name":"1 Affärsverkens inlevererade överskott",
+        "value": 261000,
+        "items": [
+          {
+            "name": "1 Luftfartsverkets inlevererade överskott",
+            "value": 0
+          },
+          {
+            "name": "2 Affärsverket svenska kraftnäts inlevererade utdelning och inleverans av motsvarighet till statlig skatt",
+            "value": 261000
+          },
+          {
+            "name": "3 Sjöfartsverkets inlevererade överskott",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "2 Övriga myndigheters inlevererade överskott",
+        "value": 367208,
+        "items": [
+          {
+            "name": "1 Inlevererat överskott av Riksgäldskontorets garantiverksamhet",
+            "value": 78840
+          },
+          {
+            "name": "2 Inlevererat överskott av statsstödd exportkredit",
+            "value": 0
+          },
+          {
+            "name": "3 Inlevererat överskott av övriga myndigheter",
+            "value": 288368
+          }
+        ]
+      },
+      {
+        "name": "3 Riksbankens inlevererade överskott",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Riksbankens inlevererade överskott",
+            "value": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Överskott av statens fastighetsförvaltning ",
+    "value": 565000,
+    "items": [
+      {
+        "name": "1 Överskott av fastighetsförvaltning",
+        "value": 565000,
+        "items": [
+          {
+            "name": "1 Inlevererat överskott av statens fastighetsförvaltning",
+            "value": 565000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ränteinkomster ",
+    "value": 3461930,
+    "items": [
+      {
+        "name": "1 Räntor på näringslån",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Ränteinkomster på lån till fiskerinäringen",
+            "value": 0
+          },
+          {
+            "name": "2 Räntor på övriga näringslån",
+            "value": 0
+          },
+          {
+            "name": "3 Räntor på övriga näringslån",
+            "value": 0
+          },
+          {
+            "name": "4 Ränteinkomster på lokaliseringslån",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "2 Räntor på studielån",
+        "value": 34000,
+        "items": [
+          {
+            "name": "1 Ränteinkomster på allmänna studielån",
+            "value": 34000
+          }
+        ]
+      },
+      {
+        "name": "3 Övriga ränteinkomster",
+        "value": 3427930,
+        "items": [
+          {
+            "name": "1 Ränteinkomster på markförvärv för jordbrukets rationalisering",
+            "value": 0
+          },
+          {
+            "name": "2 Övriga ränteinkomster",
+            "value": 27670
+          },
+          {
+            "name": "3 Räntor på skattekonto m.m., netto",
+            "value": 3400260
+          }
+        ]
+      }-
+    ]
+  },
+  {
+    "name": "Inkomster av statens aktier ",
+    "value": 24900000,
+    "items": [
+      {
+        "name": "1 Inkomster av statens aktier ",
+        "value": 24900000,
+        "items": [
+          {
+            "name": "1 Inkomster av statens aktier",
+            "value": 24900000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Offentligrättsliga avgifter ",
+    "value": 13296954,
+    "items": [
+      {
+        "name": "1 Expeditions- och ansökningsavgifter ",
+        "value": 1086540
+      },
+      {
+        "name": "2 Finansieringsavgift från arbetslöshetskassor ",
+        "value": 5118416
+      },
+      {
+        "name": "3 Avgifter för statskontroll av krigsmaterieltillverkning ",
+        "value": 48500
+      },
+      {
+        "name": "4 Avgifter vid bergsstaten ",
+        "value": 30900
+      },
+      {
+        "name": "5 Avgifter vid patent- och registreringsväsendet ",
+        "value": 459000
+      },
+      {
+        "name": "6 Avgifter för registrering i föreningsregister m.fl.",
+        "value": 2813
+      },
+      {
+        "name": "7 Avgifter vid Kronofogdemyndigheten",
+        "value": 1683800
+      },
+      {
+        "name": "8 Avgifter vid Transportstyrelsen",
+        "value": 1751000
+      },
+      {
+        "name": "9 Miljöskyddsavgifter",
+        "value": 364644
+      },
+      {
+        "name": "10 Avgifter för Finansinspektionens verksamhet ",
+        "value": 852141
+      },
+      {
+        "name": "11 Avgifter från kärnkraftverken ",
+        "value": 319000
+      },
+      {
+        "name": "12 Övriga offentligrättsliga avgifter ",
+        "value": 570000
+      },
+      {
+        "name": "13 Registreringsavgift till Fastighetsmäklarinspektionen",
+        "value": 33000
+      },
+      {
+        "name": "14 Avgifter för årlig revision",
+        "value": 166720
+      },
+      {
+        "name": "15 Avgifter för etikprövning av forskning",
+        "value": 30410
+      },
+      {
+        "name": "16 Efterbevaknings- och tillsynsavgifter",
+        "value": 21769
+      },
+      {
+        "name": "17 CSN-avgifter",
+        "value": 758300
+      }
+    ]
+  },
+  {
+    "name": "Försäljningsinkomster ",
+    "value": 49181,
+    "items": [
+      {
+        "name": "1 Inkomster av uppbörd av felparkeringsavgifter ",
+        "value": 49181
+      },
+      {
+        "name": "2 Offentlig lagring, försäljningsintäkter ",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "Böter m.m. ",
+    "value": 1943680,
+    "items": [
+      {
+        "name": "1 Restavgifter och dröjsmålsavgifter ",
+        "value": 78089
+      },
+      {
+        "name": "2 Bötesmedel ",
+        "value": 1505200
+      },
+      {
+        "name": "3 Vattenföroreningsavgift m.m. ",
+        "value": 0
+      },
+      {
+        "name": "4 Sanktionsavgifter m.m. ",
+        "value": 336314
+      },
+      {
+        "name": "5 Kontrollavgifter vid särskild skattekontroll",
+        "value": 24077
+      }
+    ]
+  },
+  {
+    "name": "Övriga inkomster av statens verksamhet ",
+    "value": 2991645,
+    "items": [
+      {
+        "name": "1 Övriga inkomster av statens verksamhet ",
+        "value": 2991645
+      },
+      {
+        "name": "2 Ersättning för uppbördskostnader till PCO",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "Inkomster av försåld egendom ",
+    "value": 5000000,
+    "items": [
+      {
+        "name": "1 Inkomster av försålda byggnader och maskiner ",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Statliga myndigheters inkomster av försålda byggnader och maskiner",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "2 Övriga inkomster av markförsäljning ",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Övriga inkomster av markförsäljning ",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "3 Övriga inkomster av försåld egendom ",
+        "value": 5000000,
+        "items": [
+          {
+            "name": "1 Inkomster av statens gruvegendom ",
+            "value": 0
+          },
+          {
+            "name": "2 Övriga inkomster av försåld egendom ",
+            "value": 5000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Återbetalning av näringslån ",
+    "value": 800,
+    "items": [
+      {
+        "name": "1 Återbetalning av jordbrukslån",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Återbetalning av lån till fiskerinäringen ",
+            "value": 0
+          }
+        ]
+      }, 
+      {
+        "name": "2 Återbetalning av övriga näringslån",
+        "value": 800,
+        "items": [
+          {
+            "name": "1 Återbetalning av övriga näringslån",
+            "value": 800
+          },
+          {
+            "name": "2 Återbetalning av övriga näringslån, Statens jordbruksverk ",
+            "value": 0
+          },
+          {
+            "name": "3 Återbetalning av tidigare infriade statliga garantier ",
+            "value": 0
+          },
+          {
+            "name": "4 Återbetalning av lokaliseringslån ",
+            "value": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Återbetalning av studielån ",
+    "value": 384145,
+    "items": [
+      {
+        "name": "1 Återbetalning av allmänna studielån ",
+        "value": 145
+      },
+      {
+        "name": "2 Återbetalning av studiemedel ",
+        "value": 384000
+      }
+    ]
+  },
+  {
+    "name": "Återbetalning av övriga lån ",
+    "value": 177986,
+    "items": [
+      {
+        "name": "1 Återbetalning av lån för svenska FN-styrkor ",
+        "value": 48636
+      },
+      {
+        "name": "2 Återbetalning av övriga lån ",
+        "value": 129350
+      }
+    ]
+  },
+  {
+    "name": "Kalkylmässiga inkomster ",
+    "value": 23921000,
+    "items": [
+      {
+        "name": "1 Avskrivningar och amorteringar ",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Avskrivningar på fastigheter",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "2 Statliga pensionsavgifter ",
+        "value": 23921000,
+        "items": [
+          {
+            "name": "1 Statliga pensionsavgifter ",
+            "value": 23921000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bidrag m.m. från EU ",
+    "value": 48770245,
+    "items": [
+      {
+        "name": "1 Bidrag från EU:s jordbruksfonder ",
+        "value": 10289920,
+        "items": [
+          {
+            "name":"1 Bidrag från Europeiska garantifonden för jordbruket",
+            "value": 7830258,
+            "items": [
+              {
+                "name": "1 Gårdsstöd",
+                "value": 7661258
+              },
+              {
+                "name": "2 Övriga interventioner ",
+                "value": 169000
+              },
+              {
+                "name": "3 Exportbidrag ",
+                "value": 0
+              },
+              {
+                "name": "4 Djurbidrag ",
+                "value": 0
+              },
+              {
+                "name": "5 Offentlig lagring ",
+                "value": 0
+              },
+              {
+                "name": "6 Övriga bidrag från Europeiska garantifonden för jordbruket",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "2 Bidrag från Europeiska jordbruksfonden för landsbygdsutveckling",
+            "value": 2459662,
+            "items": [
+              {
+                "name": "1 Bidrag från Europeiska jordbruksfonden \r\nför landsbygdsutveckling 2007–2013",
+                "value": 0
+              },
+              {
+                "name": "2 Bidrag från Europeiska jordbruksfonden för landsbygdsutveckling 2014-2020",
+                "value": 773062
+              },
+              {
+                "name": "3 Bidrag från Europeiska jordbruksfonden för landsbygdsutveckling 2021-2027",
+                "value": 1686600
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2 Bidrag från EU till fiskenäringen ",
+        "value": 217469,
+        "items": [
+          {
+            "name": "1 Bidrag från Europeiska havs- och fiskerifonden 2014-2020",
+            "value": 0
+          },
+          {
+            "name": "2 Bidrag från Europeiska havs- och fiskerifonden 2021-2027",
+            "value": 217469
+          }
+        ]
+      },
+      {
+        "name": "3 Bidrag från Europeiska regionala utvecklingsfonden ",
+        "value": 1595000,
+        "items": [
+          {
+            "name": "1 Bidrag från Europeiska regionala utvecklingsfonden 2014-2020",
+            "value": 0
+          },
+          {
+            "name": "2 Bidrag från Europeiska regionala utvecklingsfonden 2021-2027",
+            "value": 1595000
+          }
+        ]
+      },
+      {
+        "name": "4 Bidrag från Europeiska socialfonden ",
+        "value": 1554000,
+        "items": [
+          {
+            "name": "1 Bidrag från Europeiska socialfonden 2014-2020",
+            "value": 0
+          },
+          {
+            "name": "2 Bidrag från Europeiska socialfonden 2021-2027",
+            "value": 1554000
+          }
+        ]
+      },
+      {
+        "name": "5 Bidrag till transeuropeiska nätverk ",
+        "value": 533500,
+        "items": [
+          {
+            "name": "1 Bidrag till transeuropeiska nätverk ",
+            "value": 533500
+          }
+        ]
+      },
+      {
+        "name": "6 Bidrag från Europeiska Faciliteten för återhämtning och resiliens ",
+        "value": 34580356,
+        "items": [
+          {
+            "name": "1 Bidrag från Europeiska faciliteten för återhämtning och resiliens",
+            "value": 34580356
+          }
+        ]
+      },
+      {
+        "name": "7 Övriga bidrag från EU ",
+        "value": 0,
+        "items": [
+          {
+            "name": "1 Övriga bidrag från EU ",
+            "value": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avräkningar m.m. i anslutning till skattesystemet ",
+    "value": -154374067,
+    "items": [
+      {
+        "name": "1 Tillkommande skatter ",
+        "value": 13641450,
+        "items": [
+          {
+            "name": "1 EU-skatter",
+            "value": 7914182,
+            "items": [
+              {
+                "name": "1 Tullmedel",
+                "value": 7914182
+              },
+              {
+                "name": "2 Jordbrukstullar och sockeravgifter",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "2 Kommunala utjämningsavgifter",
+            "value": 5727268,
+            "items": [
+              {
+                "name": "1 Utjämningsavgift för LSS-kostnader",
+                "value": 5727268
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2 Avräkningar ",
+        "value": -168015517,
+        "items": [
+          {
+            "name": "1 Intäkter som förs till fonder",
+            "value": -7351649,
+            "items": [
+              {
+                "name": "1 Intäkter som förs till fonder",
+                "value": -7351649
+              }
+            ]
+          },
+          {
+            "name": "2 Kompensation för mervärdesskatt",
+            "value": -150521245,
+            "items": [
+              {
+                "name": "1 Avräknad mervärdesskatt, statliga myndigheter",
+                "value": -58302639
+              },
+              {
+                "name": "2 Kompensation för mervärdesskatt, kommuner",
+                "value": -92218606
+              }
+            ]
+          },
+          {
+            "name": "3 Övriga avräkningar",
+            "value": -10142623,
+            "items": [
+              {
+                "name": "1 Avgifter till public service",
+                "value": -9992623
+              },
+              {
+                "name": "2 Intäkter från handel med elcertifikat",
+                "value": -150000
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Utgifter som redovisas som krediteringar på skattekonto ",
+    "value": 0
+  },
+  {
+    "name": "Löpande redovisade skatter m.m. ",
+    "value": 0
+  }
+]
